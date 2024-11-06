@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CSharpPracticeQuestions/1.0.0": {
+        "runtime": {
+          "CSharpPracticeQuestions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CSharpPracticeQuestions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

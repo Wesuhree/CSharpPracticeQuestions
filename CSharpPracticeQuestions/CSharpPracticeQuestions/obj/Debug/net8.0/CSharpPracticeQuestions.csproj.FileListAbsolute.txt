@@ -1,0 +1,14 @@
+/Users/wematta/Documents/csharp_projects/CSharpPracticeQuestions/CSharpPracticeQuestions/bin/Debug/net8.0/CSharpPracticeQuestions
+/Users/wematta/Documents/csharp_projects/CSharpPracticeQuestions/CSharpPracticeQuestions/bin/Debug/net8.0/CSharpPracticeQuestions.deps.json
+/Users/wematta/Documents/csharp_projects/CSharpPracticeQuestions/CSharpPracticeQuestions/bin/Debug/net8.0/CSharpPracticeQuestions.runtimeconfig.json
+/Users/wematta/Documents/csharp_projects/CSharpPracticeQuestions/CSharpPracticeQuestions/bin/Debug/net8.0/CSharpPracticeQuestions.dll
+/Users/wematta/Documents/csharp_projects/CSharpPracticeQuestions/CSharpPracticeQuestions/bin/Debug/net8.0/CSharpPracticeQuestions.pdb
+/Users/wematta/Documents/csharp_projects/CSharpPracticeQuestions/CSharpPracticeQuestions/obj/Debug/net8.0/CSharpPracticeQuestions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wematta/Documents/csharp_projects/CSharpPracticeQuestions/CSharpPracticeQuestions/obj/Debug/net8.0/CSharpPracticeQuestions.AssemblyInfoInputs.cache
+/Users/wematta/Documents/csharp_projects/CSharpPracticeQuestions/CSharpPracticeQuestions/obj/Debug/net8.0/CSharpPracticeQuestions.AssemblyInfo.cs
+/Users/wematta/Documents/csharp_projects/CSharpPracticeQuestions/CSharpPracticeQuestions/obj/Debug/net8.0/CSharpPracticeQuestions.csproj.CoreCompileInputs.cache
+/Users/wematta/Documents/csharp_projects/CSharpPracticeQuestions/CSharpPracticeQuestions/obj/Debug/net8.0/CSharpPracticeQuestions.dll
+/Users/wematta/Documents/csharp_projects/CSharpPracticeQuestions/CSharpPracticeQuestions/obj/Debug/net8.0/refint/CSharpPracticeQuestions.dll
+/Users/wematta/Documents/csharp_projects/CSharpPracticeQuestions/CSharpPracticeQuestions/obj/Debug/net8.0/CSharpPracticeQuestions.pdb
+/Users/wematta/Documents/csharp_projects/CSharpPracticeQuestions/CSharpPracticeQuestions/obj/Debug/net8.0/CSharpPracticeQuestions.genruntimeconfig.cache
+/Users/wematta/Documents/csharp_projects/CSharpPracticeQuestions/CSharpPracticeQuestions/obj/Debug/net8.0/ref/CSharpPracticeQuestions.dll
