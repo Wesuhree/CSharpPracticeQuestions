@@ -139,6 +139,28 @@ namespace PracticeQuestions
         Console.WriteLine($"{inputFirstNum} / {inputSecondNum} = {answer}");
       }                  
       */
+
+      /*
+      5. Write a C# Sharp program that takes the radius of a circle as input and calculates the perimeter and area of the circle.
+      a = πr^2
+      p = 2πr
+      Test Data
+      Input the radius of the circle :
+      12
+      Expected Output :
+      Perimeter of Circle : 75.398
+      Area : 452.389
+
+      Answer:
+      Console.WriteLine("Input a radius: ");
+      double inputRadius = Convert.ToDouble(Console.ReadLine());
+      
+      double circleArea = Math.PI * inputRadius * inputRadius;
+      double circlePerimeter = 2 * Math.PI * inputRadius;
+
+      Console.WriteLine($"Area: {circleArea}, Perimeter: {circlePerimeter}");
+      */
+
     }
   }
 }
